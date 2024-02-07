@@ -58,7 +58,7 @@
 - # Flight Plan
 	- ## Private Pilot Rating (avarage amount of hours to complete: 50-70) | 3 Months |
 		- ### Recommended Plan
-			- 1st Month:
+			- $1st$ Month:
 				- Register for an FAA IACRA Account on [FAA IACRA Website](https://iacra.faa.gov/IACRA/Default.aspx)
 				- Register for an FAA MedXPress Account on [FAA MedXPress Website](https://medxpress.faa.gov/MedXpress/Account/RequestAccount.aspx)
 				- Register for a PSI Testing account for your FAA Tests on [PSI Exams Website](https://faa.psiexams.com/FAA/verify)
@@ -66,12 +66,12 @@
 				- Written Prep using online courses, complete 10 practice tests with varying questions scoring at least a 90% or above
 				- Schedule your exam on PSI Exams
 				- Take Written
-			- 2nd Month:
+			- $2nd$ Month:
 				- Fly 3x per week * 3 hours per day = 9 Hours a week * 4 weeks = 36 hours per month
 					- *when not flying due to a cancellation YOU ARE FUCKING STUDYING*
 					- Flying Consists of:
 						- To be added later
-			- 3rd Month:
+			- $3rd$ Month:
 				- Prep for checkride
 					- Solo
 					- Long Dual Cross Country (x/c)....???
@@ -85,17 +85,17 @@
 			- After all of that hard work ==== CHECKRIDE!!!! YAY YOU MADE IT!!!!
 	- ## Instrument Pilot Rating (average amount of hours to complete: 50-70) | 3 Months |
 		- ### Recommended Plan
-			- 1st Month (*if possible the last month of the three month plan to getting your private you start on the first month studying to take your instrument written*):
+			- $1st$ Month (*if possible the last month of the three month plan to getting your private you start on the first month studying to take your instrument written*):
 				- Study roughly 9 hours a week... (3 hours a day split into three units 50 minutes studying / 10 minutes taking a break) * (3 times a week)
 				- Written Prep using online courses, complete 10 practice tests with varying questions scoring at least a 90% or above
 				- Schedule your exam on PSI Exams
 				- Take Written
-			- 2nd Month:
+			- $2nd$ Month:
 				- Fly 3x per week * 3 hours per day = 9 Hours a week * 4 weeks = 36 hours per month
 					- *when not flying due to a cancellation YOU ARE FUCKING STUDYING*
 					- Flying consists of:
 						- To be added later
-			- 3rd Month:
+			- $3rd$ Month:
 				- Prep for check ride
 					- Long Dual Cross Country (x/c)
 						- 250 Nautical Miles
