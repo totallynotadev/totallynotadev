@@ -147,3 +147,11 @@
 			- At this point you already received an offer from the airlines from then on they will assist you in getting your Airline Transport Pilot Rating.
 
 - # Congratulations, you finally made it after all that hard work, you are Finally a Pilot for American Airlines!!!
+
+
+**Additional Notes**
+- From start to getting your Certified Flight Instructors license at a steady rate will take you nearly 12 months
+- From Certified Flight Instructors License to the Airlines will take you another 12 months
+- Total amount of time from 0 at a steady rate = 24 Months (2 Years)
+- These estimates can be reduced by flying more and flying longer, amongst other things.
+- Flying less adds more time to the estimates
