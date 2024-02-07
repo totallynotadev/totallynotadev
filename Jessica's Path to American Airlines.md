@@ -1,0 +1,42 @@
+- # Materials (Monthly: $80 | Yearly: N/A | OneTime: $1050):
+	- ## Courses (Monthly: $60 | Yearly: N/A | OneTime: $50):
+		- [Sporty's Pilot+ Training ($60/monthly)](https://www.sportys.com/sportys-pilot-training-plus.html)
+		- [ASA Prepware Online Access ($50)](https://asa2fly.com/prepware-online/)
+	- ## Other Online Resources (Monthly: $20 | Yearly: N/A | OneTime: N/A):
+		- [ForeFlight Pro Plus (20)](https://foreflight.com/pricing)
+	- ## Offline Resources (Monthly: N/A | Yearly: N/A | OneTime: $1000):
+		- [ForeFlight Sentry ($600)](https://www.sportys.com/new-foreflight-sentry-ads-b-receiver-2023.html?sentry_sportys=true)
+		- [Flight Gear Flashlight and Headlamp bundle ($50)](https://www.sportys.com/flight-gear-flashlight-and-headlamp-bundlea.html)
+		- Sunglasses ( already have those lol :)
+		- [David Clark H10-13.4 Headset ($350)](https://www.sportys.com/david-clark-h10-13-4-headset.html)
+	- ## Backup Resources
+		- Kneeboard bundle with scratchpad $15
+		- Pens
+- # Certificates
+	- Medical Certificate
+		- `To obtain a medical certificate you must be examined by an FAA-designated Aviation Medical Examiner (AME). As the airman you should follow these steps to apply for and obtain your medical certificate:`
+			- Use [MedXPress](https://medxpress.faa.gov/), to complete the initial portion of the application.
+			- Schedule an appointment with an [Aviation Medical Examiner (AME)](https://designee.faa.gov/#/designeeLocator) in your area.
+		- At your scheduled appointment, the AME will complete your medical examination and the remainder of the FAA application form. If you meet the required medical standards, the AME will issue you a medical certificate.
+- # Flight Plan
+	- ## Private Pilot (avarage amount of hours to complete: 50-70)
+		- ### Recommended Plan
+			- 1st Month:
+				- Register for an FAA IACRA Account on [FAA IACRA Website](https://iacra.faa.gov/IACRA/Default.aspx)
+				- Register for an FAA MedXPress Account on [FAA MedXPress Website](https://medxpress.faa.gov/MedXpress/Account/RequestAccount.aspx)
+				- Register for a PSI Testing account for your FAA Tests on [PSI Exams Website](https://faa.psiexams.com/FAA/verify)
+				- Study roughly 9 hours a week... ( 3 hours a day split into sessions 50-10-50-10-50-10 *50 mintues studying, 10 mintues break time.*)
+				- Written Prep using online courses, complete 10 practice tests with varying questions scoring at least a 90% or above
+				- Schedule your exam on PSI Exams
+				- Take Written
+			- 2nd Month:
+				- Fly 3x per week, 3 hours per day (9 Hours a week = 36 hours per month)
+					- *when not flying due to a cancellation YOU ARE FUCKING STUDYING*
+			- 3rd Month:
+				- Prep for checkride
+					- Solo
+					- Long Dual Cross Country (x/c)
+					- Long Solo Cross Country (x/c)
+					- Night Flights
+					- Any other refinements/areas of if improvement.
+			- After all of that hard work ==== CHECKRIDE!!!! YAY YOU MADE IT!!!!
