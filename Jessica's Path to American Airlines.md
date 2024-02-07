@@ -1,17 +1,54 @@
-- # Materials (Monthly: $80 | Yearly: N/A | OneTime: $1050):
+- # Materials (Monthly: $80 | Yearly: N/A | OneTime: $1300):
 	- ## Courses (Monthly: $60 | Yearly: N/A | OneTime: $50):
 		- [Sporty's Pilot+ Training ($60/monthly)](https://www.sportys.com/sportys-pilot-training-plus.html)
 		- [ASA Prepware Online Access ($50)](https://asa2fly.com/prepware-online/)
 	- ## Other Online Resources (Monthly: $20 | Yearly: N/A | OneTime: N/A):
 		- [ForeFlight Pro Plus (20)](https://foreflight.com/pricing)
-	- ## Offline Resources (Monthly: N/A | Yearly: N/A | OneTime: $1000):
+	- ## Other Resources (Monthly: N/A | Yearly: N/A | OneTime: $1250):
 		- [ForeFlight Sentry ($600)](https://www.sportys.com/new-foreflight-sentry-ads-b-receiver-2023.html?sentry_sportys=true)
 		- [Flight Gear Flashlight and Headlamp bundle ($50)](https://www.sportys.com/flight-gear-flashlight-and-headlamp-bundlea.html)
-		- Sunglasses ( already have those lol :)
+		- Sunglasses (You already have those lol :)
+		- iPad (*any model will work*)
 		- [David Clark H10-13.4 Headset ($350)](https://www.sportys.com/david-clark-h10-13-4-headset.html)
-	- ## Backup Resources
-		- Kneeboard bundle with scratchpad $15
-		- Pens
+		- [Kneeboard ($25)](https://asa2fly.com/vfr-kneeboard/) (use as a backup in conjunction with communication pad and scratch pad)
+		- [Communication Pad ($5)](https://www.sportys.com/communications-cards.html) (use as a backup in conjunction with Kneeboard)
+		- Navigation and Planning Supplies
+			- Navigation Log (NavLog) (need to have to learn how to plan flights without technology *just in case technology fails*) *choose the one that suits you the best*
+				- [ASA Flight Planner Pad ($8)](https://asa2fly.com/flight-planner-pad/)
+				- [Sporty's VFR/IFR Flight Plan Form ($7)](https://www.sportys.com/vfr-ifr-flight-plan-forms-by-sporty-s.html)
+			- E6B (Even though the paper one is cheaper I would recommend the metal one because it will last longer)
+				- [ASA Composite E6B Flight Computer ($16)](https://www.sportys.com/asa-composite-e6b-computer.html) *this one whilst the cheapest it may not last as long*
+				- [ASA Full-Size E6B Flight Computer ($50)](https://www.sportys.com/full-size-e6b-flight-computer.html)
+				- [ASA Color Full Size E6B Flight Computer ($53)](https://www.sportys.com/asa-color-full-size-e6b.html) *I personally recommend this one*
+			- Electronic Flight Computers (***Completely Optional***... added this here so that you know these exist if you'd like to use them over the manual e6b)
+				- [Sporty’s Electronic E6B Flight Computer ($80)](https://www.sportys.com/sporty-s-electronic-e6b-flight-computer.html)
+				- [ASA CX-3 Flight Computer ($110)](https://www.sportys.com/asa-cx-3-flight-computer.html)
+			- Navigational Plotter (any aviation navigational plotter will work)
+				- [ASA Ultimate Rotating Plotter ($17)](https://asa2fly.com/ultimate-rotating-plotter/)*one I'd recommend*
+				- Link to other plotters from ASA: https://asa2fly.com/supplies/flight-planning/plotters/
+				- Link to other plotters and flight computers on Sporty's: https://www.sportys.com/learn-to-fly/plotters-computers.html
+			- VFR Sectional Chart (recommend getting both a charlotte and Cincinnati sectional chart *you only really need the charlotte sectional, however Cincinnati sectional is useful if you'd like to plan for northerly flights*)
+				- Sporty's
+					- [VFR Sectional Chart](https://www.sportys.com/vfr-sectional-chart.html)
+				- Paradise Cay Publications (paracay.com)
+					- [Charlotte Sectional Chart ($9)](https://www.paracay.com/faa-chart-vfr-sectional-charlotte/)
+					- [Cincinnati Sectional Chart ($9)](https://www.paracay.com/faa-chart-vfr-sectional-cincinnati/)
+			- [Weather Briefing Cards ($5)](https://www.sportys.com/weather-briefing-cards.html) ***Completely Optional*** however it does make things easier when calling flight service for a weather briefing, you do however have an iPad  so there's that thought, in addition to paper scratch pads and other areas you can write the weather briefing on.
+			- VFR Sectional Chart Supplement (in addition to the sectional chart you need a chart supplement as well)
+				- [Airport Facility Directory/Chart Supplement ($7)](https://www.sportys.com/airport-facility-directory-chart-supplement-us.html)
+		- [Scratch Pad ($8)](https://www.staples.com/tru-red-notepads-5-x-8-narrow-ruled-canary-50-sheets-pad-6-pads-pack-tr57357/product_24419955?bopis=Y&storeNumber=0419) (any notepad will work.. just choose what works for you)
+		- Pens (you should have these already)
+		- Fuel Strainer (Doesn't matter which one you use)
+			- [MultiSump Fuel Tester $30](https://www.sportys.com/multisumptm-fuel-tester.html)
+			- [Sporty’s Fuel Tester ($13)](https://www.sportys.com/sporty-s-fuel-tester-1.html)
+			- [ASA Aircraft Fuel Tester ($10)](https://asa2fly.com/aircraft-fuel-tester/)
+			- [Fuel Sampler Cup ($10)](https://www.sportys.com/fuel-sampler-cup.html)
+		- Fuel Gauge
+			- [Cessna 172 Fuel Gauge (Standard 21 Gal. Tanks) ($15)](https://www.sportys.com/cessna-172-fuel-gauge-standard-21-gal-tanks.html)
+		- [Flight Bag ($50)](https://www.sportys.com/flight-gear-crosswind-baga.html) (any bag will work, so choose what works best for you... I went ahead and linked the one I use)
+		- I did not list or include the cost of:
+			- Mount for iPad, the way you want to mount will affect what mount you get.
+			- [Apple Pencil ($79)](https://www.apple.com/shop/product/MUWA3AM/A/apple-pencil-usb-c) 
 - # Certificates
 	- Medical Certificate
 		- `To obtain a medical certificate you must be examined by an FAA-designated Aviation Medical Examiner (AME). As the airman you should follow these steps to apply for and obtain your medical certificate:`
@@ -19,24 +56,94 @@
 			- Schedule an appointment with an [Aviation Medical Examiner (AME)](https://designee.faa.gov/#/designeeLocator) in your area.
 		- At your scheduled appointment, the AME will complete your medical examination and the remainder of the FAA application form. If you meet the required medical standards, the AME will issue you a medical certificate.
 - # Flight Plan
-	- ## Private Pilot (avarage amount of hours to complete: 50-70)
+	- ## Private Pilot Rating (avarage amount of hours to complete: 50-70) | 3 Months |
 		- ### Recommended Plan
 			- 1st Month:
 				- Register for an FAA IACRA Account on [FAA IACRA Website](https://iacra.faa.gov/IACRA/Default.aspx)
 				- Register for an FAA MedXPress Account on [FAA MedXPress Website](https://medxpress.faa.gov/MedXpress/Account/RequestAccount.aspx)
 				- Register for a PSI Testing account for your FAA Tests on [PSI Exams Website](https://faa.psiexams.com/FAA/verify)
-				- Study roughly 9 hours a week... ( 3 hours a day split into sessions 50-10-50-10-50-10 *50 mintues studying, 10 mintues break time.*)
+				- Study roughly 9 hours a week... (3 hours a day split into three units 50 minutes studying / 10 minutes taking a break) * (3 times a week)
 				- Written Prep using online courses, complete 10 practice tests with varying questions scoring at least a 90% or above
 				- Schedule your exam on PSI Exams
 				- Take Written
 			- 2nd Month:
-				- Fly 3x per week, 3 hours per day (9 Hours a week = 36 hours per month)
+				- Fly 3x per week * 3 hours per day = 9 Hours a week * 4 weeks = 36 hours per month
 					- *when not flying due to a cancellation YOU ARE FUCKING STUDYING*
+					- Flying Consists of:
+						- To be added later
 			- 3rd Month:
 				- Prep for checkride
 					- Solo
-					- Long Dual Cross Country (x/c)
+					- Long Dual Cross Country (x/c)....???
 					- Long Solo Cross Country (x/c)
+						- 150 Nautical Miles Total
+						- Three Legs
+							- Full-Stop Landing at each leg
+							- One of the legs being more than 50 nautical miles long
 					- Night Flights
 					- Any other refinements/areas of if improvement.
 			- After all of that hard work ==== CHECKRIDE!!!! YAY YOU MADE IT!!!!
+	- ## Instrument Pilot Rating (average amount of hours to complete: 50-70) | 3 Months |
+		- ### Recommended Plan
+			- 1st Month (*if possible the last month of the three month plan to getting your private you start on the first month studying to take your instrument written*):
+				- Study roughly 9 hours a week... (3 hours a day split into three units 50 minutes studying / 10 minutes taking a break) * (3 times a week)
+				- Written Prep using online courses, complete 10 practice tests with varying questions scoring at least a 90% or above
+				- Schedule your exam on PSI Exams
+				- Take Written
+			- 2nd Month:
+				- Fly 3x per week * 3 hours per day = 9 Hours a week * 4 weeks = 36 hours per month
+					- *when not flying due to a cancellation YOU ARE FUCKING STUDYING*
+					- Flying consists of:
+						- To be added later
+			- 3rd Month:
+				- Prep for check ride
+					- Long Dual Cross Country (x/c)
+						- 250 Nautical Miles
+						- Instrument Approach at each airport
+						- Three different types of approaches
+					- Long Solo Cross Country (x/c)
+					- Shooting Instrument Approaches
+					- Any other refinements/areas of if improvement.
+			- *take the plan for instrument with a grain of salt rn, still working on what needs to be done etc*
+			- After all of that hard work ==== CHECKRIDE!!!! YAY YOU MADE IT!!!!
+	- ## Commercial Pilot Rating (average amount of hours to complete: 150-170) | 5 Months |
+		- ### Recommended Plan
+			- $1st$ Month (*if possible the last month of the three month plan to getting your instrument you start on the first month studying to take your commercial written*):
+				- Study roughly 9 hours a week... (3 hours a day split into three units 50 minutes studying / 10 minutes taking a break) * (3 times a week)
+				- Written Prep using online courses, complete 10 practice tests with varying questions scoring at least a 90% or above
+				- Schedule your exam on PSI Exams
+				- Take Written
+			- $2nd$ Month:
+				- Fly 3x per week * 3 hours per day = 9 Hours a week * 4 weeks = 36 hours per month
+					- If possible would recommend flying at a rate of 6 hours per flight day 
+					- *when not flying due to a cancellation YOU ARE FUCKING STUDYING*
+					- Flying consists of:
+						- To be added later
+			- $3rd$ Month:
+				- Fly 3x per week * 3 hours per day = 9 Hours a week * 4 weeks = 36 hours per month
+					- If possible would recommend flying at a rate of 6 hours per flight day 
+					- *when not flying due to a cancellation YOU ARE FUCKING STUDYING*
+					- Flying consists of:
+						- To be added later
+			- $4th$ Month:
+				- Fly 3x per week * 3 hours per day = 9 Hours a week * 4 weeks = 36 hours per month
+					- If possible would recommend flying at a rate of 6 hours per flight day 
+					- *when not flying due to a cancellation YOU ARE FUCKING STUDYING*
+					- Flying consists of:
+						- To be added later
+			- $5th$ Month:
+				- Prep for checkride
+					- Wrap up remaining hours
+			- *take the plan for commercial with a grain of salt rn, still working on what needs to be done etc*
+			- After all of that hard work ==== CHECKRIDE!!!! YAY YOU MADE IT!!!!
+	- ## Certified Flight Instructor Rating (average amount of hours to complete: Varies... most likely less than 35) | 2 Months |
+		- ### Recommended Plan
+			- To be added
+	- ### Multi-Engine Rating (average amount of hours to complete: 10-20) | Less than a Month (like two weeks) |
+		- #### Recommended Plan
+			- To be added
+	- ## Airline Transport Pilot Rating (amount of hours to complete: 1500)
+		- ### Recommended Plan
+			- At this point you already received an offer from the airlines from then on they will assist you in getting your Airline Transport Pilot Rating.
+
+- # Congratulations, you finally made it after all that hard work, you are Finally a Pilot for American Airlines!!!
